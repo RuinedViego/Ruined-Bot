@@ -40,8 +40,7 @@ Ensure your display settings are configured correctly
 
 ‼️ **The most important step is to make sure both the configuration files are set to your riot games path, this is for the beta testing only: **
 ("E:/Games/RiotGames") could be edited with any kind of notepads.
--First config path: RuinationBeta\Assetes = config
--Seconds config path: RuinationBeta\Assetes\bin\Debug\netcoreapp3.1 = config
+
 -The last step is to make sure that you always start the program as an administrator 👔 otherwise it won't function properly.
 -Launch the RuinedBot.exe file as an administrator, Have fun and enjoy the account farming  (⊙o⊙)
  :KataLove:
