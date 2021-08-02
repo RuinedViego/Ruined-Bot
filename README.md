@@ -33,6 +33,7 @@ Before launch the bot, you need to follow setup instructions bellow :
 Ensure your display settings are configured correctly
 
 ![fezfezfds](https://user-images.githubusercontent.com/81854150/127856685-364e1255-4402-4253-b8a5-cc6016113397.jpg)
+
 ![dasfezf](https://user-images.githubusercontent.com/81854150/127856692-a80cfd35-5c19-472f-87e8-b787ff9d56a7.jpg)
 
 ‼️ **The most important step is to make sure both the configuration files are set to your riot games path, this is for the beta testing only: **
