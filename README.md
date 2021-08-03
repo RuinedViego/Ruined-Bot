@@ -37,6 +37,7 @@ The average XP per Bot-intermediate game is around 150, you’re looking at abou
 # Download:
 
 On the top right corner: Code -> Download as a zip
+
 Direct download link: https://github.com/RuinedViego/Ruined-Bot/releases/download/V1.0/BotIntermediate.rar
 
 # Installation requirements:
