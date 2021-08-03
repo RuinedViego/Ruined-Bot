@@ -17,10 +17,18 @@ Beta features:
                             :repeat: Loop  :repeat:
 
 Why is the official version going to be a paid one ?
-Currently the beta version is the fastest free leveling up bot on the internet let me explain:
+Currently the free version is the fastest free leveling up bot on the internet let me explain:
 To reach level 30 in league, players must obtain a combined total of 37,392 experience points.
 The average XP per Bot-intermediate game is around 150, you’re looking at about 250 games, a bot game averages 20mins long which means
 3 games per hour, in other terms that would be 72 games per day. 250/72 is an average of three and a half days. (all of the calculations excluded the xp boosts you get for free in game). The premium version will include Aram and Blindpick game-modes which means more Xp in less time.
+
+#What's new ?:
+
+-Cleaner UI
+-LowSpec compatibility
+-Smarter Bot
+-High performance
+-Simpler usage
 
 ![gif viego-min](https://user-images.githubusercontent.com/81854150/127856879-9ce1e475-6cfc-46be-955b-72022380f99b.gif)
 
@@ -38,11 +46,17 @@ Ensure your display settings are configured correctly
 
 ![dasfezf](https://user-images.githubusercontent.com/81854150/127856692-a80cfd35-5c19-472f-87e8-b787ff9d56a7.jpg)
 
-‼️ **The most important step is to make sure both the configuration files are set to your riot games path, this is for the beta testing only: **
-("E:/Games/RiotGames") could be edited with any kind of notepads.
+#Download:
+
+Code -> Download as a zip
+
+# Setting Up:
+
+‼️ **The most important step is to make sure both the configuration files are set to your riot games path: **
+Open config and paste your league directory.
+("E:/Games/RiotGames")
+("E:/Games/RiotGames/lockfile") could be edited with any kind of notepads.
 
 -The last step is to make sure that you always start the program as an administrator 👔 otherwise it won't function properly.
 -Launch the RuinedBot.exe file as an administrator, Have fun and enjoy the account farming  (⊙o⊙)
- :KataLove:
--In case you want to switch from the different bot game modes just go to the patterns folder, StartCoop, change the BotIntermediate variable with BotIntro or BotBeguinner.
 
