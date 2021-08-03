@@ -24,11 +24,11 @@ The average XP per Bot-intermediate game is around 150, you’re looking at abou
 
 #What's new ?:
 
--Cleaner UI
--LowSpec compatibility
--Smarter Bot
--High performance
--Simpler usage
+:Cleaner UI
+:LowSpec compatibility
+:Smarter Bot
+:High performance
+:Simpler usage
 
 ![gif viego-min](https://user-images.githubusercontent.com/81854150/127856879-9ce1e475-6cfc-46be-955b-72022380f99b.gif)
 
