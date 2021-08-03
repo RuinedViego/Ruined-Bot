@@ -65,5 +65,5 @@ Open config and paste your league directory.
 ("E:/Games/RiotGames/lockfile") could be edited with any kind of notepads.
 
 -The last step is to make sure that you always start the program as an administrator 👔 otherwise it won't function properly.
--Launch the RuinedBot.exe file as an administrator, Have fun and enjoy the account farming  (⊙o⊙)
+-Launch the RuinedBot.exe file as an administrator, Have fun and enjoy the account farming >;)
 
