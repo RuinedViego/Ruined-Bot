@@ -34,6 +34,11 @@ The average XP per Bot-intermediate game is around 150, you’re looking at abou
 
 ![UI](https://user-images.githubusercontent.com/81854150/128017158-c4ef4b98-df52-45e7-b0be-574f7bc196e8.PNG)
 
+# Download:
+
+On the top right corner:
+ Code -> Download as a zip
+
 # Installation requirements:
 
 League Of Legends client in English
@@ -47,10 +52,6 @@ Ensure your display settings are configured correctly
 ![fezfezfds](https://user-images.githubusercontent.com/81854150/127856685-364e1255-4402-4253-b8a5-cc6016113397.jpg)
 
 ![dasfezf](https://user-images.githubusercontent.com/81854150/127856692-a80cfd35-5c19-472f-87e8-b787ff9d56a7.jpg)
-
-#Download:
-
-Code -> Download as a zip
 
 # Setting Up:
 
