@@ -22,15 +22,17 @@ To reach level 30 in league, players must obtain a combined total of 37,392 expe
 The average XP per Bot-intermediate game is around 150, you’re looking at about 250 games, a bot game averages 20mins long which means
 3 games per hour, in other terms that would be 72 games per day. 250/72 is an average of three and a half days. (all of the calculations excluded the xp boosts you get for free in game). The premium version will include Aram and Blindpick game-modes which means more Xp in less time.
 
+![gif viego-min](https://user-images.githubusercontent.com/81854150/127856879-9ce1e475-6cfc-46be-955b-72022380f99b.gif)
+
 # What's new ?:
 
--Cleaner UI
--LowSpec compatibility
--Smarter Bot
--High performance
--Simpler usage
+🌟 Cleaner UI
+📟 Hight performance
+📺 LowSpec Machines compatibility 
+✅ Faster Responding
+🤖 Better AI intelligence
 
-![gif viego-min](https://user-images.githubusercontent.com/81854150/127856879-9ce1e475-6cfc-46be-955b-72022380f99b.gif)
+![UI](https://user-images.githubusercontent.com/81854150/128017158-c4ef4b98-df52-45e7-b0be-574f7bc196e8.PNG)
 
 # Installation requirements:
 
