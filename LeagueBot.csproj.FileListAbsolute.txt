@@ -1,8 +1,0 @@
-C:\Users\kille\OneDrive\Bureau\RuinationMain\Skinz3-League-of-Legends-Bot-master\Binaries\LeagueBot.exe.config
-C:\Users\kille\OneDrive\Bureau\RuinationMain\Skinz3-League-of-Legends-Bot-master\Binaries\LeagueBot.exe
-C:\Users\kille\OneDrive\Bureau\RuinationMain\Skinz3-League-of-Legends-Bot-master\Binaries\LeagueBot.pdb
-C:\Users\kille\OneDrive\Bureau\RuinationMain\Skinz3-League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\obj\Debug\LeagueBot.csprojAssemblyReference.cache
-C:\Users\kille\OneDrive\Bureau\RuinationMain\Skinz3-League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\obj\Debug\LeagueBot.csproj.CoreCompileInputs.cache
-C:\Users\kille\OneDrive\Bureau\RuinationMain\Skinz3-League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\obj\Debug\LeagueBot.csproj.CopyComplete
-C:\Users\kille\OneDrive\Bureau\RuinationMain\Skinz3-League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\obj\Debug\LeagueBot.exe
-C:\Users\kille\OneDrive\Bureau\RuinationMain\Skinz3-League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\obj\Debug\LeagueBot.pdb
