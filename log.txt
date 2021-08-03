@@ -1,0 +1,11 @@
+8/3/2021 11:21:36 AM : Coop System.ComponentModel.Win32Exception (0x80004005): The handle is invalid
+   at System.Drawing.Graphics.CopyFromScreen(Int32 sourceX, Int32 sourceY, Int32 destinationX, Int32 destinationY, Size blockRegionSize, CopyPixelOperation copyPixelOperation)
+   at LeagueBot.Windows.ApplicationCapture.CaptureApplication(String procName) in C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\Windows\ApplicationCapture.cs:line 27
+   at LeagueBot.ApiHelpers.ScreenHelper.GetCapture() in C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\ApiHelpers\ImageHelper.cs:line 47
+   at LeagueBot.ApiHelpers.ScreenHelper.GetColorPosition(Color color) in C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\ApiHelpers\ImageHelper.cs:line 53
+   at LeagueBot.Game.Entities.ActivePlayer.getNearTarget() in C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\Game\Entities\ActivePlayer.cs:line 33
+   at LeagueBot.Game.Entities.ActivePlayer.tryCastSpellOnTarget(Int32 indice) in C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\Game\Entities\ActivePlayer.cs:line 56
+   at LeagueBot.Coop.CastAndMove()
+   at LeagueBot.Coop.GameLoop()
+   at LeagueBot.Coop.Execute()
+   at LeagueBot.Patterns.PatternsManager.Execute(String name) in C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\Patterns\PatternsManager.cs:line 91

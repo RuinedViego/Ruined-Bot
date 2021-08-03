@@ -1,0 +1,12 @@
+C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Binaries\x86\liblept1753.dll
+C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Binaries\x86\libtesseract3052.dll
+C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Binaries\x64\liblept1753.dll
+C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Binaries\x64\libtesseract3052.dll
+C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Binaries\LeagueBot.exe.config
+C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Binaries\LeagueBot.exe
+C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Binaries\LeagueBot.pdb
+C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\obj\Debug\LeagueBot.csprojAssemblyReference.cache
+C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\obj\Debug\LeagueBot.csproj.CoreCompileInputs.cache
+C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\obj\Debug\LeagueBot.csproj.CopyComplete
+C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\obj\Debug\LeagueBot.exe
+C:\Users\kille\OneDrive\Bureau\League-of-Legends-Bot-master\League-of-Legends-Bot-master\Sources\LeagueBot\LeagueBot\obj\Debug\LeagueBot.pdb
