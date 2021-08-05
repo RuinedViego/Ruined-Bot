@@ -66,4 +66,5 @@ Open config and paste your league directory.
 
 -The last step is to make sure that you always start the program as an administrator 👔 otherwise it won't function properly.
 -Launch the RuinedBot.exe file as an administrator, Have fun and enjoy the account farming >;)
+NOTE: Make sure to right click on the bot go to compatibility setting and make sure to run it as windows7 compatibility!!
 
