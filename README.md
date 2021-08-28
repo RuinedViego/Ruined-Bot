@@ -30,18 +30,18 @@ The average XP per Bot-intermediate game is around 150, you’re looking at abou
 📟 Hight performance
 📺 LowSpec Machines compatibility 
 ✅ Faster Responding
+👾 Multiple champions you can pick from
+✨ Switch between ARAM and BlindPick modes
 🤖 Better AI intelligence
+
 
 ![UI](https://user-images.githubusercontent.com/81854150/128017158-c4ef4b98-df52-45e7-b0be-574f7bc196e8.PNG)
 
 # Download:
 
-On the top right corner : 
-Code -> Download as a zip
+https://github.com/RuinedViego/Ruined-Bot/releases/download/v2.0/RuinedBot.zip
 
-
-Direct download link :
-https://github.com/RuinedViego/Ruined-Bot/releases/download/V1.0/BotIntermediate.rar
+Check older releases for the free versions.
 
 # Installation requirements:
 
@@ -49,7 +49,7 @@ League Of Legends client in English
 a League of legends account
 a monitor with a 1920 * 1080 screen resolution.
 The league of legends client window size is 1600 x 900
-.NET framework 4.7 installed on computer.
+.NET framework 4.7 and 4.8 installed on computer.
 Before launch the bot, you need to follow setup instructions bellow :
 Ensure your display settings are configured correctly
 
@@ -66,5 +66,8 @@ Open config and paste your league directory.
 
 -The last step is to make sure that you always start the program as an administrator 👔 otherwise it won't function properly.
 -Launch the RuinedBot.exe file as an administrator, Have fun and enjoy the account farming >;)
-NOTE: Make sure to right click on the bot go to compatibility setting and make sure to run it as windows7 compatibility!!
+
+Nothing works?!
+Make sure to right click on the bot launch icon, go to propreties then compatibility setting and make sure to run it as windows7 compatibility!!
+otherwide run the bot on a virtual machine with windows 7 installation and .NET framework 4.8 installed
 
